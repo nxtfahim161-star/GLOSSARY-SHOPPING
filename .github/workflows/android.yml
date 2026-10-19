@@ -21,10 +21,18 @@ jobs:
           node-version: 20
 
       - name: Setup Java 17
-        uses: actions/setup-java@v4
+        uses: actions/setup-java@v5
         with:
           distribution: temurin
           java-version: 17
+
+      - name: Prepare web files
+        run: |
+          mkdir -p docs
+          for f in index.html style.css data.js core.js views.js; do
+            if [ -f "$f" ]; then cp "$f" docs/; fi
+          done
+          ls -la docs
 
       - name: Install dependencies
         run: npm install
