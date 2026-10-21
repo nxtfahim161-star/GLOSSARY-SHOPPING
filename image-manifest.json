@@ -1,0 +1,135 @@
+{
+ "images": [
+  {
+   "productId": 1,
+   "productName": "Double Smash Burger",
+   "localPath": "Image/burger-double.jpg",
+   "width": 1200,
+   "height": 997,
+   "sourceUrl": null,
+   "photographer": null,
+   "license": "UNVERIFIED - supplied by the project owner (appears to be Unsplash). Add source URL and confirm the free Unsplash license before publishing.",
+   "downloadedAndVerified": "File present and visually checked as real food matching the product (no 'Unsplash+' watermark). Source/licence not verified.",
+   "notes": ""
+  },
+  {
+   "productId": 2,
+   "productName": "Avocado Beef Burger",
+   "localPath": "Image/burger-avocado.jpg",
+   "width": 1200,
+   "height": 1500,
+   "sourceUrl": null,
+   "photographer": null,
+   "license": "UNVERIFIED - supplied by the project owner (appears to be Unsplash). Add source URL and confirm the free Unsplash license before publishing.",
+   "downloadedAndVerified": "File present and visually checked as real food matching the product (no 'Unsplash+' watermark). Source/licence not verified.",
+   "notes": "Background shows Coca-Cola bottles (third-party brand)."
+  },
+  {
+   "productId": 3,
+   "productName": "Classic Cheeseburger",
+   "localPath": "Image/burger-classic.jpg",
+   "width": 1200,
+   "height": 1800,
+   "sourceUrl": null,
+   "photographer": null,
+   "license": "UNVERIFIED - supplied by the project owner (appears to be Unsplash). Add source URL and confirm the free Unsplash license before publishing.",
+   "downloadedAndVerified": "File present and visually checked as real food matching the product (no 'Unsplash+' watermark). Source/licence not verified.",
+   "notes": ""
+  },
+  {
+   "productId": 4,
+   "productName": "Prawn Noodles",
+   "localPath": "Image/noodles-prawn.jpg",
+   "width": 1200,
+   "height": 800,
+   "sourceUrl": null,
+   "photographer": null,
+   "license": "UNVERIFIED - supplied by the project owner (appears to be Unsplash). Add source URL and confirm the free Unsplash license before publishing.",
+   "downloadedAndVerified": "File present and visually checked as real food matching the product (no 'Unsplash+' watermark). Source/licence not verified.",
+   "notes": ""
+  },
+  {
+   "productId": 5,
+   "productName": "Spaghetti in Tomato Sauce",
+   "localPath": "Image/pasta-spaghetti.jpg",
+   "width": 1200,
+   "height": 1500,
+   "sourceUrl": null,
+   "photographer": null,
+   "license": "UNVERIFIED - supplied by the project owner (appears to be Unsplash). Add source URL and confirm the free Unsplash license before publishing.",
+   "downloadedAndVerified": "File present and visually checked as real food matching the product (no 'Unsplash+' watermark). Source/licence not verified.",
+   "notes": ""
+  },
+  {
+   "productId": 6,
+   "productName": "Egg & Avocado Toast",
+   "localPath": "Image/toast-egg-avocado.jpg",
+   "width": 1200,
+   "height": 1701,
+   "sourceUrl": null,
+   "photographer": null,
+   "license": "UNVERIFIED - supplied by the project owner (appears to be Unsplash). Add source URL and confirm the free Unsplash license before publishing.",
+   "downloadedAndVerified": "File present and visually checked as real food matching the product (no 'Unsplash+' watermark). Source/licence not verified.",
+   "notes": ""
+  },
+  {
+   "productId": 7,
+   "productName": "Sausage Sprout Toast",
+   "localPath": "Image/toast-sausage.jpg",
+   "width": 1200,
+   "height": 1798,
+   "sourceUrl": null,
+   "photographer": null,
+   "license": "UNVERIFIED - supplied by the project owner (appears to be Unsplash). Add source URL and confirm the free Unsplash license before publishing.",
+   "downloadedAndVerified": "File present and visually checked as real food matching the product (no 'Unsplash+' watermark). Source/licence not verified.",
+   "notes": ""
+  },
+  {
+   "productId": 8,
+   "productName": "Iced Coffee",
+   "localPath": "Image/iced-coffee.jpg",
+   "width": 1200,
+   "height": 1799,
+   "sourceUrl": null,
+   "photographer": null,
+   "license": "UNVERIFIED - supplied by the project owner (appears to be Unsplash). Add source URL and confirm the free Unsplash license before publishing.",
+   "downloadedAndVerified": "File present and visually checked as real food matching the product (no 'Unsplash+' watermark). Source/licence not verified.",
+   "notes": "Photo shows a cafe table; the drink is cropped via object-position. Not a pure product shot."
+  },
+  {
+   "productId": 9,
+   "productName": "Orange Pancakes",
+   "localPath": "Image/pancakes-orange.jpg",
+   "width": 1200,
+   "height": 1800,
+   "sourceUrl": null,
+   "photographer": null,
+   "license": "UNVERIFIED - supplied by the project owner (appears to be Unsplash). Add source URL and confirm the free Unsplash license before publishing.",
+   "downloadedAndVerified": "File present and visually checked as real food matching the product (no 'Unsplash+' watermark). Source/licence not verified.",
+   "notes": ""
+  },
+  {
+   "productId": 10,
+   "productName": "Berry Ice Pop",
+   "localPath": "Image/ice-pop-berry.jpg",
+   "width": 1200,
+   "height": 1800,
+   "sourceUrl": null,
+   "photographer": null,
+   "license": "UNVERIFIED - supplied by the project owner (appears to be Unsplash). Add source URL and confirm the free Unsplash license before publishing.",
+   "downloadedAndVerified": "File present and visually checked as real food matching the product (no 'Unsplash+' watermark). Source/licence not verified.",
+   "notes": ""
+  }
+ ],
+ "excluded": [
+  "Unsplash+ watermarked: chicken wings, blueberry pancakes, ramen, stick burger",
+  "Not a product: steakhouse table, fig/egg platter"
+ ],
+ "missing": [
+  "pizza",
+  "fries",
+  "fried chicken",
+  "lassi",
+  "all battery / power-bank products (removed from app)"
+ ]
+}
